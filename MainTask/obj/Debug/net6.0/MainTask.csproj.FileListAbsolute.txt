@@ -1,0 +1,15 @@
+C:\Users\LevitskiyMD\Desktop\FirstComplexTest\MainTask\bin\Debug\net6.0\MainTask.exe
+C:\Users\LevitskiyMD\Desktop\FirstComplexTest\MainTask\bin\Debug\net6.0\MainTask.deps.json
+C:\Users\LevitskiyMD\Desktop\FirstComplexTest\MainTask\bin\Debug\net6.0\MainTask.runtimeconfig.json
+C:\Users\LevitskiyMD\Desktop\FirstComplexTest\MainTask\bin\Debug\net6.0\MainTask.dll
+C:\Users\LevitskiyMD\Desktop\FirstComplexTest\MainTask\bin\Debug\net6.0\MainTask.pdb
+C:\Users\LevitskiyMD\Desktop\FirstComplexTest\MainTask\obj\Debug\net6.0\MainTask.csproj.AssemblyReference.cache
+C:\Users\LevitskiyMD\Desktop\FirstComplexTest\MainTask\obj\Debug\net6.0\MainTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LevitskiyMD\Desktop\FirstComplexTest\MainTask\obj\Debug\net6.0\MainTask.AssemblyInfoInputs.cache
+C:\Users\LevitskiyMD\Desktop\FirstComplexTest\MainTask\obj\Debug\net6.0\MainTask.AssemblyInfo.cs
+C:\Users\LevitskiyMD\Desktop\FirstComplexTest\MainTask\obj\Debug\net6.0\MainTask.csproj.CoreCompileInputs.cache
+C:\Users\LevitskiyMD\Desktop\FirstComplexTest\MainTask\obj\Debug\net6.0\MainTask.dll
+C:\Users\LevitskiyMD\Desktop\FirstComplexTest\MainTask\obj\Debug\net6.0\refint\MainTask.dll
+C:\Users\LevitskiyMD\Desktop\FirstComplexTest\MainTask\obj\Debug\net6.0\MainTask.pdb
+C:\Users\LevitskiyMD\Desktop\FirstComplexTest\MainTask\obj\Debug\net6.0\MainTask.genruntimeconfig.cache
+C:\Users\LevitskiyMD\Desktop\FirstComplexTest\MainTask\obj\Debug\net6.0\ref\MainTask.dll
